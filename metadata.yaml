@@ -1,0 +1,36 @@
+_repo: Van-den-Vos-Reynaerde_42293
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Buitenrust Hettema, F.
+    aliases:
+    - Buitenrust Hettema, Foeke
+    - Hettema, F. Buitenrust
+    birthdate: 1862
+    deathdate: 1922
+    gutenberg_agent_id: '32182'
+    url: http://www.gutenberg.org/2009/agents/32182
+  - agent_name: Degering, Hermann
+    alias: Degering, H.
+    birthdate: 1866
+    deathdate: 1942
+    gutenberg_agent_id: '41617'
+    url: http://www.gutenberg.org/2009/agents/41617
+description: ''
+gutenberg_issued: '2013-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42293'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Reynard the Fox (Legendary character) -- Poetry'
+- !lcc 'PT'
+- !lcsh 'Dutch literature'
+title: Van den Vos Reynaerde
+url: http://www.gutenberg.org/ebooks/42293
